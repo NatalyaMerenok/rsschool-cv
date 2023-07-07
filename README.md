@@ -1,1 +1,1 @@
-https://github.com/NatalyaMerenok/rsscool-cv.git
+https://github.com/NatalyaMerenok
